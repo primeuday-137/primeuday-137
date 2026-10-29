@@ -1,27 +1,18 @@
+# 💫 About Me:
+👨‍💻 Aspiring Software Developer | BSc Student<br>🚀 Building Web Projects & Developer Tools<br>💻 HTML • CSS • JavaScript • Python<br>🌱 Learning Git, GitHub & Android Development<br>🎯 Turning Ideas into Real Projects
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Uday+%F0%9F%91%8B;Aspiring+Developer;Building+Digital+Experiences;Code.+Create.+Innovate." alt="Animated typing intro" />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prime_uday_4x?vrfl=Zzd0MHp3cjV1Z3ht) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:primeuday09@gmail.com) 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:000000&height=150&section=header&text=DEVELOPER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=primeuday-137&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=primeuday-137&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=primeuday-137&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ⚡ BUILD • CREATE • INNOVATE
+---
+[![](https://komarev.com/ghpvc/?username=primeuday-137&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**BSc Student | Web Developer in Progress**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github&theme=dark" />
-
-### 🚀 My Developer Journey
-
-💻 Building creative websites  
-🎨 Exploring modern UI and animations  
-🧠 Learning programming step by step  
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7B2FF7,100:00F7FF&height=100&section=footer" width="100%" />
-
-**⚡ Turning ideas into code.**
-
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
